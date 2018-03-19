@@ -1,9 +1,3 @@
-# Date: 08/06/2017
-# Distro: Kali Linux
-# Author: Ethical-H4CK3R
-# Description: Bruteforce Instagram
-#
-#
 
 import os
 import time
